@@ -1,0 +1,5 @@
+tile.uppers.upper.name=Fordított tölcsér
+itemGroup.uppers=Csak egy fordított tölcsér
+tooltip.upper_1=Úgy működik mint egy tölcsér csak felfordítva.
+tooltip.upper_2=Az alatta lévő tárgyakat felszívja.
+container.upper=Fordított tárgy tölcsér
